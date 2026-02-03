@@ -30,7 +30,7 @@ IPASIRBones_MiniSat also includes the `-i` option (MiniSat only), which extends 
 
 ### Cross-Platform Support
 
-IPASIRBones builds on both **Linux** and **macOS**. See [`BUILD_COMPATIBILITY.md`](BUILD_COMPATIBILITY.md) for detailed platform-specific instructions.
+IPASIRBones builds on both **Linux** and **macOS**. 
 
 ### Quick Start
 
