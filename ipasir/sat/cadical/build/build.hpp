@@ -1,0 +1,6 @@
+#define VERSION "2.1.3"
+#define IDENTIFIER "afcb67f48e923aac5b7b0c9e03d878358f5d8e97"
+#define SHORTID "afcb67f"
+#define COMPILER "g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0"
+#define FLAGS "-Wall -Wextra -O3 -DNDEBUG"
+#define DATE "Tue Feb 3 10:19:07 AM CET 2026 Linux ram 6.11.0-17-generic x86_64"
